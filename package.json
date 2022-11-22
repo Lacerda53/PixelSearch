@@ -12,7 +12,7 @@
     "react-icons": "^3.10.0",
     "react-infinite-scroll-hook": "^2.0.1",
     "react-photo-gallery": "^8.0.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "simple-react-lightbox": "^2.7.3-2"
   },
   "scripts": {
